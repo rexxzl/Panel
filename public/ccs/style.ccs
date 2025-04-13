@@ -1,0 +1,13 @@
+/* Style untuk AdminLTE dan dark mode */
+body {
+  background-color: #222d32;
+  color: #fff;
+}
+
+.navbar {
+  background-color: #1e282c;
+}
+
+.container {
+  margin-top: 50px;
+}
